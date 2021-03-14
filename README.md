@@ -5,5 +5,7 @@ Matlab Script to illustrate the application of a transformation information-base
 Files:
 
 TransInfoFlowerRotationCompare.m - main script for carrying out analysis
+
 transifo.m - function for computing transformation information associated to a given transformation
+
 FlowerPinwheel.jpg - Image to analyze
